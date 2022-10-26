@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Cat vaska = new Cat();
         vaska.talk("Meow, meow!");
 
+
         Puma bagira = new Puma();
         bagira.talk();
 
