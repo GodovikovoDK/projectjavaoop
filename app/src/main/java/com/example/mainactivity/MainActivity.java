@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         cats.add(murzik);
         cats.add(lion);
 
+
         Cat cat = cats.get(0);
         Cat cat1 = cats.get(1);
         Cat cat2 = cats.get(2);
