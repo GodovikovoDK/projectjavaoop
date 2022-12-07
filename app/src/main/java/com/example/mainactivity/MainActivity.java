@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
             public void talk(){
                 Log.i("talk()",  "I'm singing! La-la-la!");
             }
+
         };
         singingCat.talk();
         Cat cat = new Cat();
