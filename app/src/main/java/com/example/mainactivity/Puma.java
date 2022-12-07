@@ -10,6 +10,11 @@ public class Puma extends Cat{
     public void talk(){
         Log.i("talk()", "R-r-r! I'm puma. My name is " + name + ",and i'm " + age + " years old");
     }
+
+    @Override
+    public void draw() {
+
+    }
 }
 
 
